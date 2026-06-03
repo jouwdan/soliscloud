@@ -1,5 +1,9 @@
 # soliscloud
 
+[![npm version](https://img.shields.io/npm/v/soliscloud.svg)](https://www.npmjs.com/package/soliscloud)
+[![npm downloads](https://img.shields.io/npm/dm/soliscloud.svg)](https://www.npmjs.com/package/soliscloud)
+[![license](https://img.shields.io/npm/l/soliscloud.svg)](https://github.com/jouwdan/soliscloud/blob/main/LICENSE)
+
 A framework-agnostic TypeScript client for the **SolisCloud Platform API** (Ginlong / Solis), implementing the complete V2.0.3 specification.
 
 - ✅ **Complete API coverage** — all 37 documented device and plant endpoints
