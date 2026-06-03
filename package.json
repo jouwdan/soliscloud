@@ -1,8 +1,16 @@
 {
   "name": "soliscloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Framework-agnostic TypeScript client for the SolisCloud Platform API (V2.0.3). Covers all device and plant interfaces with full request signing.",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jouwdan/soliscloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jouwdan/soliscloud/issues"
+  },
+  "homepage": "https://github.com/jouwdan/soliscloud#readme",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
